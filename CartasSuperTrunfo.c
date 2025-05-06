@@ -124,8 +124,8 @@ int main() {
         printf("Área: %.3f Km² \n", total_area); // Exibe a saída de dados da variável area2
         printf("PIB: %.3f bilhões de reais \n", total_pib); // Exibe a saída de dados da variável pib2
         printf("Número de Pontos Turísticos: %d \n", total_turistico); // Exibe a saída de dados da variável turistico2
-        printf("Densidade Populacional: %.3f \n", den_pop2);
-        printf("PIB per capita: %.3f \n", pib_per_capita2);
+        printf("Densidade Populacional: %.3f \n", den_pop1);
+        printf("PIB per capita: %.3f \n", pib_per_capita1);
     }else{
         total_densidade = den_pop2;
         printf("Carta 2 VENCEU! \n");
